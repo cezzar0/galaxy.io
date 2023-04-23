@@ -255,7 +255,7 @@ body {
     background-color: var(--section-background);
 }
 /* Very Small Screen */
-@media (min-width: 310px) and (max-width: 380px){
+@media (min-width: 200px) and (max-width: 380px){
     .features {
         height: 440vh;
     }
