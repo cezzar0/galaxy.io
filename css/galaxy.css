@@ -257,7 +257,7 @@ body {
 /* Very Small Screen */
 @media (min-width: 360px) and (max-width: 380px){
     .features {
-        height: 420vh;
+        height: 440vh;
     }
   }
 @media (min-width: 390px) and (max-width: 760px){
