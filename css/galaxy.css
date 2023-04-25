@@ -572,6 +572,7 @@ img {
     color: #d3c03d;
     letter-spacing: -1px; 
     margin-bottom: 15px;
+    text-shadow: 1px 1px black;
 }
 
 .contact .info .link {
