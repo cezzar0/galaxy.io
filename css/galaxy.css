@@ -569,10 +569,9 @@ img {
 .contact .info .label  {
     font-size: 30px;
     font-weight: 800;
-    color: #d3c03d;
+    color: #ffa500;
     letter-spacing: -1px; 
     margin-bottom: 15px;
-    text-shadow: 1px 1px black;
 }
 
 .contact .info .link {
