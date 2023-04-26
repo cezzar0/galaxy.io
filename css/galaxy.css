@@ -177,8 +177,8 @@ img {
 }
 
 .header .links ul li a:hover {
-    color: var(--smain-color);
-    border-bottom: 1px solid var(--smain-color);
+    color: var(--main-color);
+    border-bottom: 1px solid var(--main-color);
     transition: var(--main-duration);
     -webkit-transition: var(--main-duration);
     -moz-transition: var(--main-duration);
